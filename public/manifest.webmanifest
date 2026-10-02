@@ -1,0 +1,12 @@
+{
+  "name": "Stickwork",
+  "short_name": "Stickwork",
+  "description": "A field hockey career game played through key moments.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#05091a",
+  "theme_color": "#0b1530",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
